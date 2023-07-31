@@ -1,0 +1,84 @@
+C:\Users\Abdo\Desktop\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Abdo\Desktop\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 01\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Abdo\Desktop\API Assignment 01\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 01\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 01\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 02\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Abdo\Desktop\API Assignment 02\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 02\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 02\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 03\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Abdo\Desktop\API Assignment 03\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 03\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 03\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 04\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Abdo\Desktop\API Assignment 04\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 04\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 04\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 05\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Abdo\Desktop\API Assignment 05\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 05\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 05\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\bin\Debug\net6.0\Core.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\Core.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\Core\obj\Debug\net6.0\ref\Core.dll

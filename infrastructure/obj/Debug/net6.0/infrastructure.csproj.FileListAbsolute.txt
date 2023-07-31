@@ -1,0 +1,105 @@
+C:\Users\Abdo\Desktop\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\Abdo\Desktop\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 01\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 02\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 03\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 04\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\Abdo\Desktop\API Assignment 05\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\HP\Downloads\API Assignment 06\API Assignment 06\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
